@@ -20,19 +20,22 @@
 - 해시 키 또한 해시 링 위의 어느 지점에 배치할 수 있음
 - 어떤 키가 저장되는 서버는 해당 키의 위치로부터 시계 방향으로 링을 탐색해나가면서 만나는 첫 번째 서버임
 
-![image.png](attachment:4ff0009f-15d4-49a5-9123-227a0f810c62:image.png)
+![image](https://github.com/user-attachments/assets/d2f3495c-1fa0-4394-b7d2-5dff4199c0bc)
+
 
 ### 안정 해시의 서버 추가
 
 - 서버를 추가하더라도 키 가운데 일부만 재배치하면됨
 
-![image.png](attachment:57d23138-3444-4259-b84a-bd4ee7faa510:image.png)
+![image](https://github.com/user-attachments/assets/4c35d504-88d2-4bda-b283-4657e22b7f9b)
+
 
 ### 안정 해시의 서버 제거
 
 - 하나의 서버가 제거되면 키 가운데 일부만 재배치됨
 
-![image.png](attachment:c7e48d9d-3fcf-4d64-a46b-4409f550f774:image.png)
+![image](https://github.com/user-attachments/assets/ee4bbfe5-f072-4b07-8a18-8eabc7d37545)
+
 
 ### 기본 구현법의 두 가지 문제
 
