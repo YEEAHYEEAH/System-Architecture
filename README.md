@@ -8,10 +8,10 @@
 | 25.02.06 ~ 02.12 | 5장 |   | [@Junseo-tech](https://github.com/Junseo-tech) |
 | 25.02.13 ~ 02.26 | 6장 |   | [@jeongjiyeon315](https://github.com/jeongjiyeon315) |
 | 25.02.27 ~ 03.05 | 7장 |   | [@chjcode](https://github.com/chjcode) |
-|  |  |   |  |
-|  |  |   |  |
-|  |  |   |  |
-|  |  |   |  |
+| 25.03.05 ~ 03.12 | 8장 |   | [@ranunclulus](https://github.com/ranunclulus) |
+|  | 9장 |   | [@Junseo-tech](https://github.com/Junseo-tech) |
+|  | 10장 |   | [@jeongjiyeon315](https://github.com/jeongjiyeon315) |
+|  | 11장 |   | [@chjcode](https://github.com/chjcode) |
 |  |  |   |  |
 |  |  |   |  |
 
